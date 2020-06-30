@@ -7,11 +7,9 @@ import {
   ChartWrapper,
   VisualWrapper,
   LedgendWrapper,
-  SelectedData,
   LegendColorTextWrapper,
   LedgendItem,
   LegendColor,
-  StyledDoughnut,
   SelectedPercent,
   SelectedPremium,
   SelectedTitle
