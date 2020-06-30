@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rickardHockey/static/css/main.34de6062.chunk.css",
+    "main.js": "/rickardHockey/static/js/main.c772e20d.chunk.js",
+    "main.js.map": "/rickardHockey/static/js/main.c772e20d.chunk.js.map",
+    "runtime-main.js": "/rickardHockey/static/js/runtime-main.d5b51afc.js",
+    "runtime-main.js.map": "/rickardHockey/static/js/runtime-main.d5b51afc.js.map",
+    "static/js/2.1bca8f53.chunk.js": "/rickardHockey/static/js/2.1bca8f53.chunk.js",
+    "static/js/2.1bca8f53.chunk.js.map": "/rickardHockey/static/js/2.1bca8f53.chunk.js.map",
+    "index.html": "/rickardHockey/index.html",
+    "precache-manifest.f240abdcc422587bdf66971484796c3b.js": "/rickardHockey/precache-manifest.f240abdcc422587bdf66971484796c3b.js",
+    "service-worker.js": "/rickardHockey/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/rickardHockey/static/css/main.34de6062.chunk.css.map",
+    "static/js/2.1bca8f53.chunk.js.LICENSE.txt": "/rickardHockey/static/js/2.1bca8f53.chunk.js.LICENSE.txt",
+    "static/media/IMG_5338.JPG": "/rickardHockey/static/media/IMG_5338.77e8cf61.JPG",
+    "static/media/IMG_5553.JPG": "/rickardHockey/static/media/IMG_5553.1adc85d5.JPG",
+    "static/media/logo.png": "/rickardHockey/static/media/logo.82bf07b9.png",
+    "static/media/venmo_logo_blue.svg": "/rickardHockey/static/media/venmo_logo_blue.6156ca3d.svg",
+    "static/media/zele-logo.png": "/rickardHockey/static/media/zele-logo.b3f607fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5b51afc.js",
+    "static/js/2.1bca8f53.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.c772e20d.chunk.js"
+  ]
+}
